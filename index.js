@@ -1,3 +1,3 @@
 // Write your solution here!
-append = []
-append.push('Odie')
+append = [];
+append.push('Odie');
