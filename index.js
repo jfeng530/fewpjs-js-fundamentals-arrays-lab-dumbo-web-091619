@@ -1,2 +1,3 @@
 // Write your solution here!
-pets.push('Odie')
+append = []
+append.push('Odie')
